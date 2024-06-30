@@ -1,0 +1,23 @@
+.class-one {
+  background-color: lightcoral;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-one {
+  color: blue;
+  font-size: 30px;
+}
+
+.class-two {
+  background-color: lightcoral;
+  font-size: 25px;
+}
+
+#id-two {
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
+.class-three {
+  background-color: lightcoral;
+}
